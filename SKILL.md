@@ -15,10 +15,9 @@ description: >
   wait to be asked explicitly.
 license: MIT
 compatibility: Designed for any Agent Skills-compatible AI assistant (Claude Code, OpenAI Codex, VS Code Copilot, Roo Code, and others).
-metadata: |
-  | author | version |
-  | ------------ | ------- |
-  | Jan Sellmann | 1.0     |
+metadata:
+  author: Jan Sellmann
+  version: "1.0"
 ---
 
 # Decision Interview
